@@ -1,0 +1,15 @@
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\bin\Debug\SystemCam.exe.config
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\bin\Debug\SystemCam.exe.manifest
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\bin\Debug\SystemCam.application
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\bin\Debug\SystemCam.exe
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\bin\Debug\SystemCam.pdb
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\obj\Debug\SystemCam.csproj.AssemblyReference.cache
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\obj\Debug\SystemCam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\obj\Debug\SystemCam.Form1.resources
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\obj\Debug\SystemCam.Properties.Resources.resources
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\obj\Debug\SystemCam.csproj.GenerateResource.cache
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\obj\Debug\SystemCam.csproj.CoreCompileInputs.cache
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\obj\Debug\SystemCam.exe.manifest
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\obj\Debug\SystemCam.application
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\obj\Debug\SystemCam.exe
+C:\Users\Caheve\source\repos\SystemCam\SystemCam\obj\Debug\SystemCam.pdb
